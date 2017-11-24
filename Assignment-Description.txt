@@ -1,0 +1,2 @@
+You can either take up Project 1 in the link below and do it individually or Project 2 in the link below and do it in a group of 2 or 3. Groups of 2 have to implement 2 of the 4 analysis listed in the link in their framework and groups of 3 will have to implement 3 of the 4 analysis. Note that Project 2 is much more involved even in a group, so only take it up if you are really excited about exploring analysis in LLVM and have the time as well.
+https://cseweb.ucsd.edu/classes/sp14/cse231-a/project.html
