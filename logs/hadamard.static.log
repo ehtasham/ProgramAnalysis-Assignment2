@@ -1,0 +1,16 @@
+trunc	9
+ret	2
+br	27
+alloca	18
+load	55
+sext	2
+zext	28
+store	28
+add	10
+icmp	7
+ashr	2
+getelementptr	10
+call	11
+sub	1
+shl	2
+Total	212

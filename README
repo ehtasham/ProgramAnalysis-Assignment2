@@ -1,0 +1,9 @@
+Run Pass 1:
+cd runscripts
+./run-part1.sh $BENCHMARKNAME
+Run Pass 2:
+cd runscripts
+./run-part2.sh $BENCHMARKNAME
+Run Pass 3:
+cd runscripts
+./run-part3.sh $BENCHMARKNAME

@@ -1,0 +1,9 @@
+Welcome heelo to CSE231!
+Welcome heelo to CSE231!
+Welcome heelo to CSE231!
+Welcome heelo to CSE231!
+alloca 	 1 
+store 	 1 
+call 	 4 
+ret 	 1 
+Total 	 7 
